@@ -1,5 +1,5 @@
 
-<!--  MERYPCversion -->
+<!--  PCversion -->
 <?php require_once(__DIR__.'/data.php');
 ?><!DOCTYPE html>
 <html lang="ja">
